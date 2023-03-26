@@ -1,0 +1,15 @@
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\bin\Debug\net7.0\numericalformatting.exe
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\bin\Debug\net7.0\numericalformatting.deps.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\bin\Debug\net7.0\numericalformatting.runtimeconfig.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\bin\Debug\net7.0\numericalformatting.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\bin\Debug\net7.0\numericalformatting.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\numericalformatting.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\numericalformatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\numericalformatting.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\numericalformatting.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\numericalformatting.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\numericalformatting.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\refint\numericalformatting.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\numericalformatting.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\numericalformatting.genruntimeconfig.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\numericalformatting\obj\Debug\net7.0\ref\numericalformatting.dll

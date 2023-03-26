@@ -1,0 +1,15 @@
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\string-manipulation.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\string-manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\string-manipulation.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\string-manipulation.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\string-manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\bin\Debug\net7.0\string-manipulation.exe
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\bin\Debug\net7.0\string-manipulation.deps.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\bin\Debug\net7.0\string-manipulation.runtimeconfig.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\bin\Debug\net7.0\string-manipulation.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\bin\Debug\net7.0\string-manipulation.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\string-manipulation.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\refint\string-manipulation.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\string-manipulation.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\string-manipulation.genruntimeconfig.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-manipulation\obj\Debug\net7.0\ref\string-manipulation.dll

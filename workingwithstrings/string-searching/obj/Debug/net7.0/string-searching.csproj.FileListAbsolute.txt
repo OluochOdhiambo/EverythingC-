@@ -1,0 +1,15 @@
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\bin\Debug\net7.0\string-searching.exe
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\bin\Debug\net7.0\string-searching.deps.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\bin\Debug\net7.0\string-searching.runtimeconfig.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\bin\Debug\net7.0\string-searching.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\bin\Debug\net7.0\string-searching.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\string-searching.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\string-searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\string-searching.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\string-searching.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\string-searching.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\string-searching.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\refint\string-searching.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\string-searching.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\string-searching.genruntimeconfig.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-searching\obj\Debug\net7.0\ref\string-searching.dll

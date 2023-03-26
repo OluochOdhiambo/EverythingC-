@@ -1,0 +1,15 @@
+C:\Users\Kelvin\source\repos\LinkedInLearning\bin\Debug\net7.0\LinkedInLearning.exe
+C:\Users\Kelvin\source\repos\LinkedInLearning\bin\Debug\net7.0\LinkedInLearning.deps.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\bin\Debug\net7.0\LinkedInLearning.runtimeconfig.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\bin\Debug\net7.0\LinkedInLearning.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\bin\Debug\net7.0\LinkedInLearning.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\LinkedInLearning.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\LinkedInLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\LinkedInLearning.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\LinkedInLearning.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\LinkedInLearning.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\LinkedInLearning.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\refint\LinkedInLearning.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\LinkedInLearning.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\LinkedInLearning.genruntimeconfig.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\obj\Debug\net7.0\ref\LinkedInLearning.dll

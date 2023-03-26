@@ -1,0 +1,15 @@
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\bin\Debug\net7.0\string-formatting.exe
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\bin\Debug\net7.0\string-formatting.deps.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\bin\Debug\net7.0\string-formatting.runtimeconfig.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\bin\Debug\net7.0\string-formatting.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\bin\Debug\net7.0\string-formatting.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\string-formatting.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\string-formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\string-formatting.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\string-formatting.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\string-formatting.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\string-formatting.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\refint\string-formatting.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\string-formatting.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\string-formatting.genruntimeconfig.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\workingwithstrings\string-formatting\obj\Debug\net7.0\ref\string-formatting.dll

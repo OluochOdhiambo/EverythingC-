@@ -1,0 +1,15 @@
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\datechallenge.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\datechallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\datechallenge.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\datechallenge.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\datechallenge.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\bin\Debug\net7.0\datechallenge.exe
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\bin\Debug\net7.0\datechallenge.deps.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\bin\Debug\net7.0\datechallenge.runtimeconfig.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\bin\Debug\net7.0\datechallenge.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\bin\Debug\net7.0\datechallenge.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\datechallenge.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\refint\datechallenge.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\datechallenge.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\datechallenge.genruntimeconfig.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbersanddates\datechallenge\obj\Debug\net7.0\ref\datechallenge.dll

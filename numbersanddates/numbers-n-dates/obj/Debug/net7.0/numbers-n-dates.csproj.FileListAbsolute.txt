@@ -1,0 +1,15 @@
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\bin\Debug\net7.0\numbers-n-dates.exe
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\bin\Debug\net7.0\numbers-n-dates.deps.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\bin\Debug\net7.0\numbers-n-dates.runtimeconfig.json
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\bin\Debug\net7.0\numbers-n-dates.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\bin\Debug\net7.0\numbers-n-dates.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\numbers-n-dates.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\numbers-n-dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\numbers-n-dates.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\numbers-n-dates.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\numbers-n-dates.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\numbers-n-dates.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\refint\numbers-n-dates.dll
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\numbers-n-dates.pdb
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\numbers-n-dates.genruntimeconfig.cache
+C:\Users\Kelvin\source\repos\LinkedInLearning\numbers-n-dates\obj\Debug\net7.0\ref\numbers-n-dates.dll
